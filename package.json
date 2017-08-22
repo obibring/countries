@@ -4,6 +4,9 @@
 	"version": "v1.8.1",
 	"main": "index.js",
 	"keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
+    "scripts": {
+        "pretty": "node ./scripts/pretty.js"
+    },
 	"maintainers": [
 		{
 			"name": "Mohammed Le Doze",
